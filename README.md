@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on markdown pastebin, aswell as other projects
-- 🌱 I’m currently learning full stack development
-- 😄 Pronouns: He/Him
+I am a student studying Computer Science.
+
+My interest consist of:
+- 🖥️ Full Stack Development with React
+- Software Development and Automation
+- Reverse Engineering
 
