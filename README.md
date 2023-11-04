@@ -9,9 +9,9 @@
     🎵 Dance Dance Revolution • Sound Voltex 
 </pre>
 
-[My website](https://hotlatte.me) ·
-[Twitter](https://twitter.com/_cc00ffee) ·
-[Codechef](https://www.codechef.com/users/cc0ffee) ·
+[My website](https://hotlatte.me) •
+[Twitter](https://twitter.com/_cc00ffee) •
+[Codechef](https://www.codechef.com/users/cc0ffee) •
 [Codeforces](https://codeforces.com/profile/cc00ffee)
   
 </div>
