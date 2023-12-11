@@ -5,7 +5,7 @@
 <pre>
     💼 Student, BSc in Computer Science
     💻 Full Stack Web Development • Reverse Engineering • Game Development
-    📖 Systems Programming • Programming Languages & Translators
+    📖 Operating Systems
     🎵 Dance Dance Revolution • Sound Voltex 
 </pre>
 
