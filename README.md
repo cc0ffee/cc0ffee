@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/24800958?v=4" width="15%" align="right" />
 <pre>
-    💼 Student, BSc & MS in Computer Science
+    💼 Student, BSc in Computer Science
     💻 Full Stack Web Development • Reverse Engineering • Game Development
     📖 Operating Systems • Mobile App Development
     🎵 Dance Dance Revolution • Sound Voltex 
