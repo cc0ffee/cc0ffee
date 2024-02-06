@@ -1,7 +1,6 @@
 ## Hi there 👋 I am cc00ffee!
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/24800958?v=4" width="15%" align="right" />
 <pre>
     💼 Student, BSc in Computer Science
     💻 Full Stack Web Development • Reverse Engineering • Game Development
