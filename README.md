@@ -3,7 +3,6 @@
 <div align="center">
 <pre>
     💼 Student, BSc in Computer Science
-    💻 Full Stack Web Development • Reverse Engineering • Game Development
     📖 Operating Systems • Mobile App Development
     🎵 Dance Dance Revolution • Sound Voltex 
 </pre>
