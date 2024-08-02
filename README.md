@@ -3,7 +3,7 @@
 <div align="center">
 <pre>
     💼 Student, BSc in Computer Science
-    📖 Operating Systems • Mobile App Development
+    📖 Distributed Systems • Information Security • Algorithms 
     🎵 Dance Dance Revolution • Sound Voltex 
 </pre>
 
