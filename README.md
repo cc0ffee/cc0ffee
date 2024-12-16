@@ -9,6 +9,6 @@
 </pre>
 
 [My website](https:/cc00ffee.dev/) •
-[Twitter](https://twitter.com/_cc00ffee) •
+[Twitter](https://twitter.com/_cc00ffee)
   
 </div>
