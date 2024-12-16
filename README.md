@@ -2,9 +2,10 @@
 
 <div align="center">
 <pre>
-    💼 Student, BSc in Computer Science
-    📖 Distributed Systems • Information Security • Algorithms 
+    📚 Student, BSc in Computer Science
+    📖 Database Organization
     🎵 Dance Dance Revolution • Sound Voltex 
+    💼 Incoming SWE Intern @ ???
 </pre>
 
 [My website](https:/cc00ffee.dev/) •
