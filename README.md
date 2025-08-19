@@ -3,9 +3,9 @@
 <div align="center">
 <pre>
     📚 Student, BSc in Computer Science
-    📖 Database Organization
+    📖 Software Engineering I
     🎵 Dance Dance Revolution • Sound Voltex 
-    💼 Incoming SWE Intern @ ???
+    💼 Previously worked as SWE Intern @ Epsilon
 </pre>
 
 [My website](https:/cc00ffee.dev/) •
