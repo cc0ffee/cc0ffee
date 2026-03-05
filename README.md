@@ -3,7 +3,7 @@
 <div align="center">
 <pre>
     📚 Student, BSc in Computer Science
-    📖 Software Engineering I
+    📖 Cloud: Software as a Service
     🎵 Dance Dance Revolution • Sound Voltex 
     💼 Previously worked as SWE Intern @ Epsilon
 </pre>
