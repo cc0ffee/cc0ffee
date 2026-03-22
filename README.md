@@ -10,7 +10,7 @@
   </samp>
 </p>
 
-<img align="right" width="200px" src="https://i.pinimg.com/1200x/db/31/86/db3186ff001e4550556dcd215f4a9bd1.jpg" />
+<img align="right" width="265px" src="https://i.pinimg.com/1200x/db/31/86/db3186ff001e4550556dcd215f4a9bd1.jpg" />
 
 :wave: I am cc00ffee (aka. `0xcc00ffee`, `cc0ffee`, `nulIptr`)!
 
@@ -20,6 +20,12 @@
 
 ⬇️ Current Works ⬇️
 
+- **study-up** - looking to study in chicago? find the best spots through this! 🏙️
+- **inotikill** - bash script to use inotify (inode notify) events to kill and secure linux servers
+- **ML to RISCV Compiler** - made with compiler optimizations and LLVM as IL
+
+![](https://github-readme-stats-one-bice.vercel.app/api?username=cc0ffee&include_all_commits=true&show_icons=true&title_color=495d1e&text_color=495d1e&icon_color=495d1e&card_width=650px&role=OWNER,ORGANIZATION_MEMBER)
+
 My GPG Key: `90EDDD37A5130D168C5D3A7D620DF0F306B7564B`
 
-*Buy me a coffee, and I will always chat!*
+<sub><i>Buy me a coffee, and I will always chat! <a href="https://buymeacoffee.com/cc0ffee">☕</a></i></sub>
