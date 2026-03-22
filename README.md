@@ -3,7 +3,7 @@
   <h1>Hello There! (*/ω＼*)～</h1>
 </div>
 
-<img align="right" width="250px" src="https://i.pinimg.com/1200x/db/31/86/db3186ff001e4550556dcd215f4a9bd1.jpg" />
+<img align="right" width="250px" src="https://avatars.githubusercontent.com/u/24800958" />
 
 <p align="left">
   <samp>
