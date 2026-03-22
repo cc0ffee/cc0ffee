@@ -1,4 +1,7 @@
 ## Hello There! (\*/ω＼\*)～
+
+<img align="right" width="250px" src="https://i.pinimg.com/1200x/db/31/86/db3186ff001e4550556dcd215f4a9bd1.jpg" />
+
 <p align="left">
   <samp>
     <a href="https://blog.cc00ffee.dev">blog</a> .
@@ -10,13 +13,12 @@
   </samp>
 </p>
 
-<img align="right" width="250px" src="https://i.pinimg.com/1200x/db/31/86/db3186ff001e4550556dcd215f4a9bd1.jpg" />
 
 :wave: I am cc00ffee (aka. `0xcc00ffee`, `cc0ffee`, `nulIptr`)!
 
 - 📖 Software (Backend, Compilers), Cybersecurity (Red Team, Linux Hardening)
 - :alarm_clock: CST Timezone「[UTC-5](https://time.is/UTC-5)」
-- :link: [cc00ffee,dev](https://cc00ffee.dev)
+- :link: [cc00ffee.dev](https://cc00ffee.dev)
 
 ⬇️ Current Works ⬇️
 
@@ -28,5 +30,5 @@ My GPG Key: `90EDDD37A5130D168C5D3A7D620DF0F306B7564B`
 
 <sub><i>Buy me a <a href="https://buymeacoffee.com/cc0ffee">coffee</a>, and I will always chat〜 ☕</i></sub>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=cc0ffee&show_icons=true&count_private=true&icon_color=FB7299&title_color=FB7299)
-[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=cc0ffee&layout=compact&langs_count=10&exclude_repo=iQOO-Z1-kernel,canyie.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=cc0ffee&count_private=true&show_icons=true&include_all_commits=true&icon_color=FB7299&title_color=FB7299&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="160px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=cc0ffee&layout=compact&langs_count=8&icon_color=FB7299&title_color=FB7299&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="160px" />
