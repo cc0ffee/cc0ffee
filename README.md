@@ -26,7 +26,7 @@
 ⬇️ Current Works ⬇️
 
 - **study-up** - looking to study in chicago? find the best spots through this!
-- **inotikill** - bash script to use inotify (inode notify) events to kill and secure linux servers
+- **inotikill** - script to use inotify(inode notify) events to kill & secure linux servers
 - **ml to riscv compiler** - made with compiler optimizations and llvm as il
 
 My GPG Key: `90EDDD37A5130D168C5D3A7D620DF0F306B7564B`
