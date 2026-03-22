@@ -10,7 +10,7 @@
   </samp>
 </p>
 
-<img align="right" width="265px" src="https://i.pinimg.com/1200x/db/31/86/db3186ff001e4550556dcd215f4a9bd1.jpg" />
+<img align="right" width="250px" src="https://i.pinimg.com/1200x/db/31/86/db3186ff001e4550556dcd215f4a9bd1.jpg" />
 
 :wave: I am cc00ffee (aka. `0xcc00ffee`, `cc0ffee`, `nulIptr`)!
 
@@ -20,12 +20,13 @@
 
 ⬇️ Current Works ⬇️
 
-- **study-up** - looking to study in chicago? find the best spots through this! 🏙️
+- **study-up** - looking to study in chicago? find the best spots through this!
 - **inotikill** - bash script to use inotify (inode notify) events to kill and secure linux servers
-- **ML to RISCV Compiler** - made with compiler optimizations and LLVM as IL
-
-![](https://github-readme-stats-one-bice.vercel.app/api?username=cc0ffee&include_all_commits=true&show_icons=true&title_color=495d1e&text_color=495d1e&icon_color=495d1e&card_width=650px&role=OWNER,ORGANIZATION_MEMBER)
+- **ml to riscv compiler** - made with compiler optimizations and llvm as il
 
 My GPG Key: `90EDDD37A5130D168C5D3A7D620DF0F306B7564B`
 
-<sub><i>Buy me a coffee, and I will always chat! <a href="https://buymeacoffee.com/cc0ffee">☕</a></i></sub>
+<sub><i>Buy me a <a href="https://buymeacoffee.com/cc0ffee">coffee</a>, and I will always chat〜</i></sub>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=nekohasekai&show_icons=true&count_private=true&icon_color=FB7299&title_color=FB7299)
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=canyie&layout=compact&langs_count=10&exclude_repo=iQOO-Z1-kernel,canyie.github.io)](https://github.com/anuraghazra/github-readme-stats)
