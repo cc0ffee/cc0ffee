@@ -19,7 +19,7 @@
 
 :wave: I am cc00ffee (aka. `0xcc00ffee`, `cc0ffee`, `nulIptr`)!
 
-- 📖 Software (Backend, Compilers), Cybersecurity (Red Team, Linux Hardening)
+- 📖 Software (Backend&Compilers) / Security (Red Team&Linux Hardening)
 - :alarm_clock: CST Timezone「[UTC-5](https://time.is/UTC-5)」
 - :link: [cc00ffee.dev](https://cc00ffee.dev)
 
