@@ -1,14 +1,25 @@
-## Hi there 👋 I am cc00ffee!
+## Hello There! (\*/ω＼\*)～
+<p align="left">
+  <samp>
+    <a href="https://blog.cc00ffee.dev">blog</a> .
+    <a href="https://github.com/cc0ffee">github</a> .
+    <a href="https://twitter.com/_cc00ffee">twitter</a> .
+    <a href="https://app.hackthebox.com/users/669780">hackthebox</a> .
+    <a href="https://pwn.college/hacker/45908">pwncollege</a> .
+    <a href="https://osu.ppy.sh/users/11187586">osu!</a>
+  </samp>
+</p>
 
-<div align="center">
-<pre>
-    📚 Student, BSc in Computer Science
-    📖 Cloud: Software as a Service
-    🎵 Dance Dance Revolution • Sound Voltex 
-    💼 Previously worked as SWE Intern @ Epsilon
-</pre>
+<img align="right" width="200px" src="https://i.pinimg.com/1200x/db/31/86/db3186ff001e4550556dcd215f4a9bd1.jpg" />
 
-[My website](https:/cc00ffee.dev/) •
-[Twitter](https://twitter.com/_cc00ffee)
-  
-</div>
+:wave: I am cc00ffee (aka. `0xcc00ffee`, `cc0ffee`, `nulIptr`)!
+
+- 📖 Software (Backend, Compilers), Cybersecurity (Red Team, Linux Hardening)
+- :alarm_clock: CST Timezone「[UTC-5](https://time.is/UTC-5)」
+- :link: [cc00ffee,dev](https://cc00ffee.dev)
+
+⬇️ Current Works ⬇️
+
+My GPG Key: `90EDDD37A5130D168C5D3A7D620DF0F306B7564B`
+
+*Buy me a coffee, and I will always chat!*
