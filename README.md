@@ -33,6 +33,6 @@ My GPG Key: `90EDDD37A5130D168C5D3A7D620DF0F306B7564B`
 
 <sub><i>Buy me a <a href="https://buymeacoffee.com/cc0ffee">coffee</a>, and I will always chat〜 ☕</i></sub>
 
-<img height="260px" src="https://osu-sig.vercel.app/card?user=iced%20latte&mode=mania&blur=50&animation=true&mini=false" />
+<img height="260px" src="https://osu-sig.vercel.app/card?user=iced%20latte&mode=mania&blur=100&animation=true&mini=false" />
 
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=cc0ffee&count_private=true&show_icons=true&include_all_commits=true&icon_color=FB7299&title_color=FB7299&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=cc0ffee&layout=compact&langs_count=8&icon_color=FB7299&title_color=FB7299&card_width=332&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
