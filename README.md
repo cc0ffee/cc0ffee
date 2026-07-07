@@ -26,6 +26,7 @@
 ⬇️ Current Works ⬇️
 
 - **study-up** - looking to study in chicago? find the best spots through this!
+  -  -> visit @ https://studyup.cc00ffee.dev/ ☕
 - **inotikill** - script to use inotify(inode notify) events to secure linux servers
 - **ml to riscv compiler** - made with compiler optimizations and llvm as il
 
