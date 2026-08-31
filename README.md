@@ -27,7 +27,7 @@
 
 - **study-up** - looking to study in chicago? find the best spots through this!
   -  -> visit @ https://studyup.cc00ffee.dev/ ☕
-- **inotikill** - script to use inotify(inode notify) events to secure linux servers
+- **chip8 emulator** - basic emulator of the chip8 cpu and system
 - **ml to riscv compiler** - made with compiler optimizations and llvm as il
 
 My GPG Key: `90EDDD37A5130D168C5D3A7D620DF0F306B7564B`
