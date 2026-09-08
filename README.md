@@ -3,7 +3,7 @@
   <h1>Hello There! (*/ω＼*)～</h1>
 </div>
 
-<img align="right" width="286px" src="https://i.pinimg.com/1200x/db/31/86/db3186ff001e4550556dcd215f4a9bd1.jpg" />
+<img align="right" width="206px" src="https://i.pinimg.com/1200x/db/31/86/db3186ff001e4550556dcd215f4a9bd1.jpg" />
 
 <p align="left">
   <samp>
@@ -27,7 +27,7 @@
 
 - **study-up** - looking to study in chicago? find the best spots through this!
   -  -> visit @ https://studyup.cc00ffee.dev/ ☕
-- **chip8 emulator** - basic emulator of the chip8 cpu and system
+- **nespresso** - emulator of the nintendo entertainment system
 - **ml to riscv compiler** - made with compiler optimizations and llvm as il
 
 My GPG Key: `90EDDD37A5130D168C5D3A7D620DF0F306B7564B`
