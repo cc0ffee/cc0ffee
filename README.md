@@ -30,6 +30,6 @@
 - **nespresso** - emulator of the nintendo entertainment system
 - **ml to riscv compiler** - made with compiler optimizations and llvm as il
 
-My GPG Key: `90EDDD37A5130D168C5D3A7D620DF0F306B7564B`
+My GPG Key: `6E7CE5CE2585BC32FA3BFC8E5998836336D5FC6F`
 
 <sub><i>Buy me a <a href="https://buymeacoffee.com/cc0ffee">coffee</a>, and I will always chat〜 ☕</i></sub>
